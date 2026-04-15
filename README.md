@@ -8,12 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=F472B6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%9A%80;PHP+%7C+JavaScript+%7C+TypeScript+Wizard+%E2%9C%A8;C%2B%2B+Explorer+%F0%9F%A6%80;81+Public+Repos+%26+137+PRs+%F0%9F%93%88;Always+learning%2C+always+building+%F0%9F%94%A5;Open+to+Collabs+%26+Cool+Projects!+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/karishmaaaaa?label=Followers&style=social)](https://github.com/karishmaaaaa)
-&nbsp;
-![Visitor Count](https://profile-counter.glitch.me/karishmaaaaa/count.svg)
-
 </div>
 
 ---
@@ -112,8 +106,9 @@ const karishma = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karishmaaaaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=F472B6&text_color=ffffff&include_all_commits=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karishmaaaaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F472B6&text_color=ffffff&langs_count=8" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karishmaaaaa&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F472B6&text_color=ffffff&langs_count=8" width="38%"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=karishmaaaaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=F472B6&text_color=ffffff&include_all_commits=true&count_private=true&hide=contribs" width="52%"/>
 
 </div>
 
@@ -137,16 +132,6 @@ const karishma = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=karishmaaaaa&bg_color=0D1117&color=F472B6&line=F472B6&point=FF6B6B&area=true&area_color=F472B620&hide_border=true" width="100%"/>
 </div>
-
----
-
-## 🐍 Watch My Contributions Get Eaten!
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/karishmaaaaa/karishmaaaaa/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-> 💡 Enable the snake by setting up [Platane/snk](https://github.com/Platane/snk) as a GitHub Action in your profile repo!
 
 ---
 
