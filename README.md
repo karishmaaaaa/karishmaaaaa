@@ -102,18 +102,6 @@ const karishma = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karishmaaaaa&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F472B6&text_color=ffffff&langs_count=8" width="38%"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=karishmaaaaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=F472B6&text_color=ffffff&include_all_commits=true&count_private=true&hide=contribs" width="52%"/>
-
-</div>
-
----
-
 ## 🏆 Achievements
 
 <div align="center">
