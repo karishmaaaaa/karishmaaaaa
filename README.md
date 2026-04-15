@@ -131,23 +131,6 @@ const karishma = {
 
 ---
 
-## 📬 Let's Connect & Build Something Cool!
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karishmaaaaa)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/karishmaaaaa)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karishmaaaaa)
-
-<br/>
-
-**💜 If you like what I build, drop a ⭐ on my repos — it keeps me going!**
-
-</div>
-
----
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=footer&animation=twinkling" width="100%"/>
 
